@@ -1,0 +1,2 @@
+start up:
+& "C:\Program Files\Mumble\server\mumble-server.exe" -ini "C:\Program Files\Mumble\server\murmur.ini"
